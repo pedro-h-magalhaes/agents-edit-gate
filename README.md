@@ -40,7 +40,6 @@ agents-edit-gate/
 ├── LICENSE                      MIT
 ├── requirements.txt             what the tests need: pytest
 ├── pytest.ini                   finds src/ and tests/
-├── conftest.py                  loads the shared Claude session fixtures
 ├── src/
 │   ├── edit_gate.py             EditGate, run with the harness's name
 │   ├── harness.py               Harness, and one subclass per harness
