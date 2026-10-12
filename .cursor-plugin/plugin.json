@@ -1,0 +1,6 @@
+{
+  "name": "edit-gate",
+  "version": "0.1.0",
+  "description": "Denies writes to a repo on main or master.",
+  "hooks": "./hooks/cursor.json"
+}
